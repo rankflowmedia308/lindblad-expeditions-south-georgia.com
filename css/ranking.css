@@ -1,7 +1,7 @@
 /* ── Hero ────────────────────────────────────── */
 .hero {
   background-color: var(--navy);
-  background-image: url('/images/lindblad-ship.png');
+  background-image: url('../images/lindblad-ship.png');
   background-size: cover;
   background-position: center 18%;
   position: relative;
