@@ -1,0 +1,13 @@
+<svg viewBox="0 0 220 40" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="South Georgia Review">
+  <!-- Anchor icon -->
+  <g stroke="rgba(255,255,255,0.82)" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <circle cx="13" cy="8" r="4" stroke-width="1.7"/>
+    <line x1="13" y1="12" x2="13" y2="33" stroke-width="1.7"/>
+    <line x1="5" y1="18" x2="21" y2="18" stroke-width="1.7"/>
+    <path d="M5 28 Q4.5 33 8.5 34 Q11 35 13 33" stroke-width="1.7"/>
+    <path d="M21 28 Q21.5 33 17.5 34 Q15 35 13 33" stroke-width="1.7"/>
+  </g>
+  <circle cx="13" cy="8" r="2.2" fill="#B8862E"/>
+  <text x="32" y="15" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="9" font-weight="600" fill="rgba(255,255,255,0.85)" letter-spacing="2.8">SOUTH GEORGIA</text>
+  <text x="32" y="34" font-family="Georgia,'Times New Roman',serif" font-size="17" font-weight="700" fill="#B8862E">REVIEW</text>
+</svg>
